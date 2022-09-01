@@ -1,0 +1,147 @@
+.social-media {
+    bottom: 10px;
+    right: 30px;
+    position: fixed;
+}
+
+.insta {
+    color: rgb(201, 14, 14);
+}
+
+.facebook {
+    color: blue;
+}
+
+.twitter {
+    color: rgb(43, 43, 206);
+}
+
+.git {
+    color: black;
+}
+
+.home {
+    width: 100%;
+    height: 106vh;
+    padding-top: 3rem;
+    display: flex;
+}
+
+.home-left {
+    /* background-color: rgb(198, 227, 252); */
+    width: 50%;
+    height: 87vh;
+}
+
+.home-left h5 {
+    padding: 150px 0px 0px 200px;
+    font-size: 13px;
+    color: red;
+}
+
+.home-left h3 {
+    padding: 0px 0px 0px 200px;
+    font-size: 20px;
+    color: rgb(37, 126, 199);
+    font-weight:400;
+    letter-spacing: 2px;
+    font-size: 18px;
+}
+
+.home-left p {
+    padding: 0px 0px 0px 200px;
+    font-size: 14px;
+}
+
+.home-right {
+    width: 50%;
+    height: 87vh;
+    float: right;
+}
+
+.home-button {
+    display: flex;
+    margin: 30px 0px 0px 250px;
+    font-size: 15px;
+}
+
+.button-one {
+    background: none;
+    border: none;
+    box-shadow: 1px 3px 9px .1px rgb(250, 178, 178);
+    padding: 5px 10px;
+    font-weight: 600;
+}
+
+.button-one a {
+    color: steelblue;
+}
+
+.button-two {
+    margin-left: 50px;
+    background: none;
+    border: none;
+    box-shadow: 1px 3px 9px .1px rgb(133, 220, 247);
+    padding: 5px 15px;
+    color: rgb(236, 131, 89);
+    font-weight: 600;
+
+}
+
+.button-two a {
+    color: steelblue;
+}
+
+.button-one:hover {
+    color: rgb(133, 220, 247);
+    box-shadow: 1px 3px 9px .1px gray;
+    transition: all .1s linear;
+}
+
+.button-two:hover {
+    color: rgb(250, 178, 178);
+    box-shadow: 1px 3px 9px .1px gray;
+    transition: all .1s linear;
+}
+
+.dark {
+    position: fixed;
+    bottom: 10px;
+    left: 30px;
+}
+
+.dark button{
+    background: black;
+    border-radius: 3px;
+    border: none;
+    box-shadow: 1px 3px 9px .1px rgb(133, 220, 247);
+    color: rgb(236, 131, 89);
+    font-size: 10px;
+}
+
+.night {
+    background-color: black;
+    background-image: url();
+    color: rgb(247, 243, 243);
+    color: rgb(228, 217, 217);
+    transition: all .3s ease-in-out;
+}
+
+.git-night {
+    color: rgb(247, 243, 243);
+}
+
+@media(prefers-color-scheme: dark){
+    .home {
+        background-color: black;
+    }
+    .home-right {
+        background-image: url();
+    }
+    .git {
+        color: rgb(247, 243, 243);
+    }
+    .home-left p {
+        color: rgb(228, 217, 217);
+    }
+}

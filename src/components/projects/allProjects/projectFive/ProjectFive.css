@@ -1,0 +1,39 @@
+.five-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 8rem;
+}
+
+.five-container table td {
+    border: 2px solid steelblue;
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.five-container .turn {
+    margin-right: 20px;
+    color: green;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.winner {
+    margin: 2rem 37rem;
+    width: 200px;
+}
+
+.winner .winner-text {
+    color: steelblue;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.winner button {
+    border: none;
+    background-color: rgb(96, 154, 202);
+    color: white;
+    border-radius: 4px;
+    padding: 2px 10px 3px 10px;
+}

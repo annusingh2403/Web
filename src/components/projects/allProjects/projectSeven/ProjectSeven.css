@@ -1,0 +1,111 @@
+.tours {
+    width: 100%;
+}
+
+.tours-box {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px 0px 0px 2rem;
+}
+
+.tour-card {
+    width: 520px;
+    min-height: 400px;
+    margin: 15px;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0px 1px 5px 2px lightgray;
+}
+
+.tour-img img {
+    width: 520px;
+    height: 250px;
+}
+
+.tour-data {
+    width: 100%;
+    display: flex;
+    margin-top: 15px;
+    justify-content: space-between;
+}
+
+.tour-title{
+    margin-left: 10px;
+}
+
+.tour-title h5 {
+    font-size: 17px;
+}
+
+.tour-price{
+    padding-right: 25px; 
+    color: orangered;
+}
+
+.tour-info{
+    padding: 0 5px 5px 10px;
+}
+
+.tour-info {
+    color: steelblue;
+    font-size: 12px;
+}
+
+.tour-card .button {
+    margin: 10px auto;
+    background-color: rgb(92, 153, 202);
+    width: 150px;
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+    height: 30px;
+    box-shadow: 0px 1px 5px 2px rgb(187, 185, 185);
+}
+
+.tour-card .button:hover {
+    opacity: .8;
+    cursor: pointer;
+    transition: all .3s ease;
+}
+
+.tour-card .button:active {
+    box-shadow: none;
+}
+
+.readmore-button {
+    border: none;
+    outline: none;
+    background: none;
+    color: rgb(16, 160, 11);
+    font-size: 14px;
+}
+
+.no-tours {
+    text-align: center;
+    margin-top: 10rem;
+    color: red;
+    letter-spacing: 2px;
+}
+
+.no-tours button {
+    background-color: rgb(92, 153, 202);
+    width: 150px;
+    margin-top: 40px;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    padding: 2px 0 2px 0;
+    box-shadow: 0px 2px 4px 2px gray;
+    cursor: pointer;
+}
+
+.no-tours button:hover {
+    opacity: .8;
+    transition: all .4s ease;
+}
+
+.no-tours button:active {
+    box-shadow: none;
+}
+

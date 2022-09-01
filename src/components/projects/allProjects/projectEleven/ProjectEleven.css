@@ -1,0 +1,65 @@
+.project-eleven {
+    width: 70%;
+    min-height: 400px;
+    margin: 80px auto;
+    display: flex;
+}
+
+.project-eleven-left {
+    width: 20%;
+    min-height: 400px;
+    margin-right: 50px;
+    letter-spacing: 2px;
+    display: block;
+}
+
+.button {
+    margin-bottom: 10px;
+}
+
+.project-eleven-right {
+    width: 70%;
+    margin-top: 10px;
+}
+
+.project-eleven-right .job-desc {
+    display: flex;
+}
+
+.job-icons {
+    margin-right: 20px;
+    color: steelblue;
+    font-size: 35px;
+}
+
+.project-eleven-right h4{
+    color: steelblue;
+    letter-spacing: 2px;
+}
+
+.project-eleven-right h5 {
+    background-color: lightgray;
+    display: inline;
+    padding: 3px 10px 3px 10px;
+    font-size: 12px;
+}
+
+.project-eleven-right .dates {
+    margin-top: 20px;
+    color: rgb(149, 181, 192);
+}
+
+.active {
+    color: steelblue;
+    border-left: 2px solid rgb(72, 129, 204);
+    font-weight: 600;
+    padding-left: 10px;
+    transition: all .4s ease;
+    height: 20px;
+}
+
+
+
+
+
+

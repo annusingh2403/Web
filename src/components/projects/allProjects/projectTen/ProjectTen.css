@@ -1,0 +1,72 @@
+.pten-container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 40px 0 0 50px;
+}
+
+.pten-img {
+    margin: 15px;
+    position: relative;
+    text-align: center;
+}
+
+.pten-img img {
+    width: 350px;
+    height: 300px;
+    border-radius: 20px;
+}
+
+.text {
+    position: absolute;
+    top: 40%;
+    left: -10%;
+    transition:all .5s ease;
+    opacity: 0;
+    color: steelblue;
+
+  }
+
+.pten-img:hover img{
+    transform: scale(.95);
+    opacity: .2;
+    transition: all .5s ease;
+}
+
+.pten-img:hover .text{
+    width: 50%;
+    transform: scale(.95);
+    top: 40%;
+    left: 25%;
+    text-align: center;
+    transition: all .5s ease;
+    position: absolute;
+    opacity: 1;
+    color: steelblue;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.menu{
+    width: 50%;
+    margin: 30px auto;
+    display: flex;
+    justify-content: space-evenly;
+    text-transform: capitalize;
+    color: rgb(73, 129, 185);
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+
+.menu ul li{
+    background-color: rgb(245, 181, 181);
+    padding: 2px 10px 2px 10px;
+    border-radius: 4px;  
+}
+
+.menu ul li:hover {
+    background-color: rgb(250, 135, 135);
+    transition: all .3s ease;
+    cursor: pointer;
+}
+

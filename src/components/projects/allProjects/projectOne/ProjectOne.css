@@ -1,0 +1,58 @@
+.minione {
+    width: 100%;
+    height: inherit;
+    margin-top: 10%;
+    text-align: center;
+}
+
+.minione input {
+    border: none;
+    background: none;
+    border-bottom: 1px solid black;
+    outline: none;
+    font-size: 15px;
+    padding: 3px;
+}
+
+.minione input:focus {
+    background-color: rgb(129, 234, 250);
+    transition: all .3s ease-in-out;
+    border-radius: 5px;
+}
+
+.minione input:hover {
+    background-color: rgb(129, 234, 250);
+    transition: all .3s ease-in-out;
+    border-radius: 5px;
+}
+
+.minione button {
+    background-color: rgb(122, 223, 253);
+    border: none;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 600;
+    color: white;
+    letter-spacing: 2px;
+    margin-left: 10px;
+    outline: none;
+    padding: 3px 9px 3px 9px;
+}
+
+.minione button:focus {
+    background-color: rgb(114, 211, 250);
+    transform: scale(1.1);
+    transition: all .5s ease-in-out;
+}
+
+.minione button:hover {
+    background-color: rgb(70, 157, 179);
+    transition: all .5s ease-in-out;
+    transform: scale(1.1);
+}
+
+.name {
+    margin-top: 5rem;
+    text-transform: uppercase;
+}

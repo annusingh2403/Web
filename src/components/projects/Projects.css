@@ -1,0 +1,99 @@
+.project {
+    width: 96%;
+    min-height: 90vh;
+    margin-left: 3rem;
+    display: flex;
+}
+
+.sidebar {
+    background-color: rgb(252, 216, 151);
+    width: 14%;
+    margin-top: 5rem;
+    padding-left: 10px;
+    /* min-height: 90vh; */
+}
+
+.project-box {
+    width: 80%;
+    margin-top: 5rem;
+    margin-left: 20px;
+}
+
+.sidebar h5 {
+    padding: 5rem 0px 3rem 2rem;
+    color: rgb(255, 255, 255);
+    letter-spacing: 2px;
+}
+
+.project-list-title {
+    font-size: 13px;
+    margin-bottom: 20px;
+    padding: 7px;
+    font-weight: 600;
+    width: 10rem;
+}
+
+.show {
+    max-height: 400px;
+    overflow: hidden;
+    transition: all .5s ease;
+}
+
+.hide { 
+    max-height: 0;
+    overflow: hidden;
+    transition: all .5s ease;
+}
+
+.project-list button {
+    background: none;
+    border: none;
+    box-shadow: .5px .9px 5px .2px gray;
+}
+
+.project-list-title:hover {
+    transform: scale(1.1);
+    transition: all .2s ease-in-out;
+    box-shadow: .5px .9px 5px .2px rgb(117, 169, 247);
+
+}
+
+.list-items {
+    color: rgba(7, 136, 175, 0.877);
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 700;
+    padding-left: 2px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+.tab:hover {
+    border-left: 3px solid rgb(19, 168, 228);
+    border-right: 3px solid rgb(19, 168, 228);
+    margin-left: 10px;
+    transition: all .3s ease-in-out;
+    width: 80%;
+    
+}
+
+.active-tab {
+    background-color: white;
+    width: 80%;
+    border-left: 3px solid rgb(19, 168, 228);
+    border-right: 3px solid rgb(19, 168, 228);
+    transition: all .3s ease-in-out;
+    margin-left: 10px;
+
+}
+
+/* .tab {
+    border-left: 3px solid rgb(19, 168, 228);
+    border-right: 3px solid rgb(19, 168, 228);
+    margin-left: 5px;
+    transition: all .3s ease-in-out;
+} */
+
+
+
+

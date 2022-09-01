@@ -1,0 +1,93 @@
+
+.project-eight-box {
+    width: 500px;
+    margin: 5rem auto;
+    box-shadow: 1px 1px 2px 1px lightgray;
+    padding-top: 20px;
+}
+
+.review-img {
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    margin: 0px auto;
+    position: relative;
+}
+
+.project-eight-box .quote {
+    color: steelblue;
+    position: absolute;
+    left: 52.5%;
+    bottom: 56%;
+}
+
+.review-img img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+
+.review-data {
+    text-align: center;
+}
+
+.review-data h5 {
+    font-size: 16px;
+    margin-top: 5px;
+    margin-bottom: 0;
+    letter-spacing: 2px;
+}
+
+.review-data p {
+    font-size: 12px;
+}
+
+.review-text {
+    font-size: 13px;
+    padding: 0 5px 0 10px;
+    margin-bottom: 10px;
+    color: steelblue;
+}
+
+.project-eight-box .review-text{
+    min-height: 80px;
+}
+
+.project-eight-box .button {
+    text-align: center;
+}
+
+.project-eight-box .button button {
+    margin-left: 15px;
+    background-color: rgb(147, 202, 247);
+    outline: none;
+    border: none;
+    cursor: pointer;
+    color: white;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    width: 40px;
+    text-align: center;
+}
+
+.project-eight-box .button button:hover {
+    background-color: rgb(76, 174, 240);
+    transition: all .3s ease;
+}
+
+.project-eight-box .random {
+    background-color: rgb(236, 154, 59);
+    outline: none;
+    border: none;
+    cursor: pointer;
+    color: white;
+    margin: 0 0 10px 195px;
+}
+
+.project-eight-box .random:hover{
+    background-color: rgb(81, 177, 241);
+    transition: all .4s ease;
+}
+
+
+

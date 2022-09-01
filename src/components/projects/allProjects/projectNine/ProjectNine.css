@@ -1,0 +1,50 @@
+.project-nine {
+    width: 70%;
+    min-height: 400px;
+    margin: 50px auto;
+    display: flex;
+}
+
+.project-nine-left {
+    width: 20%;
+    min-height: 400px;
+    margin-right: 50px;
+    letter-spacing: 2px;
+}
+
+.project-nine-right {
+    width: 80%;
+}
+
+.project-nine-question-box {
+    box-shadow: 1px 1px 5px 1px lightgray;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.project-nine-question {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 10px 5px 10px;
+}
+
+.project-nine-icon {
+   font-size: 20px;
+   color: rgb(245, 246, 247);
+   background-color: rgb(107, 186, 202);
+   border-radius: 20%;
+   width: 30px;
+   text-align: center;
+}
+
+.project-nine-info {
+    padding: 10px;
+    transition: all .4s ease;
+
+}
+
+.hide {
+    min-width: none;
+    transition: all .4s ease;
+
+}

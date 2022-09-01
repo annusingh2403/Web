@@ -1,0 +1,77 @@
+.project-four {
+    margin: 5rem auto;
+    width: 20rem;
+}
+
+.form input{
+    background-color: rgb(245, 214, 214);
+    width: 17rem;
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    height: 2rem;
+    color: steelblue;
+    padding-left: 10px;
+    text-transform: capitalize;
+}
+
+.form {
+    margin-bottom: 10px;
+}
+
+.form button {
+    border: none;
+    outline: none;
+    background-color:rgb(245, 185, 185);
+    height: 2rem;
+    width: 2rem;
+    border-radius: 4px;
+    margin-left: 2px;
+}
+
+.todo {
+    display: flex;
+    width: 20rem;
+    margin-top: 5px;
+}
+
+.todo li {
+    width: 15rem;
+    padding-left: 10px;
+    background-color: rgb(123, 175, 218);
+    height: 2rem;
+    border-radius: 4px;
+    text-transform: capitalize;
+    color: white;
+    font-weight: 600;
+}
+
+.todo button {
+    border: none;
+    outline: none;
+    background-color:rgb(245, 185, 185);
+    height: 2rem;
+    width: 2rem;
+    border-radius: 4px;
+    margin-left: 2px;
+}
+
+.completed {
+    text-decoration: line-through;
+}
+
+.select {
+    margin-left: 5px;
+}
+
+.select select {
+    border: none;
+    outline: none;
+    background-color: rgb(173, 213, 247);
+    border-radius: 4px;
+    padding: 4.5px;
+    transition: all 1s ease;
+    cursor: pointer;
+}
+
+

@@ -1,0 +1,253 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+      {
+        "source": {
+          "id": "the-wall-street-journal",
+          "name": "The Wall Street Journal"
+        },
+        "author": "Hannah Miao, Vicky Ge Huang, Sam Goldfarb, Caitlin McCabe, Caitlin Ostroff, Joe Wallace, Anna Hirtenstein, Chelsey Dulaney",
+        "title": "Stock Market Today: Dow, S&P 500 Edge Down As China’s Central Bank Cuts Interest Rates - The Wall Street Journal",
+        "description": "The Wall Street Journal's full markets coverage.",
+        "url": "https://www.wsj.com/livecoverage/stock-market-news-today-08-15-2022",
+        "urlToImage": "https://images.wsj.net/im-589547/social",
+        "publishedAt": "2022-08-15T16:17:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Bethlehem Feleke, Larry Madowo, Nimi Princewill, and Stephanie Busari,  CNN",
+        "title": "William Ruto defeats Raila Odinga to win Kenyan presidency - CNN",
+        "description": "Kenya's Deputy President William Ruto has been elected as the country's next President, the electoral commission announced Monday.",
+        "url": "https://www.cnn.com/2022/08/15/africa/ruto-wins-kenya-presidency-intl/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220808130306-kenyas-deputy-president-william-ruto-080622-super-tease.jpg",
+        "publishedAt": "2022-08-15T16:11:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": "Graham Kates",
+        "title": "Lindsey Graham must testify before Georgia grand jury investigating Trump, judge rules - CBS News",
+        "description": "Graham was ordered to appear as a witness on Aug. 23, but is expected to appeal the ruling.",
+        "url": "https://www.cbsnews.com/news/lindsey-graham-must-testify-georgia-grand-jury-investigating-trump-judge-rules/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/07/14/e32a5ec5-33f6-4351-8df7-000c4f5a3905/thumbnail/1200x630g1/c72c0cd794d6b383fdd26464569d0e0a/ap22194739327743.jpg",
+        "publishedAt": "2022-08-15T15:14:00Z",
+        "content": "South Carolina Sen. Lindsey Graham must testify before a grand jury in Georgia investigating former President Donald Trump's conduct after losing the 2020 election.\r\nGraham had asked a federal judge … [+4333 chars]"
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": null,
+        "title": "Ignoring Ukraine setbacks, Putin boasts of Russian weapons prowess - Reuters",
+        "description": "President Vladimir Putin said on Monday that Russia was ready to sell advanced weapons to allies globally and cooperate in developing military technology, nearly six months into the Ukraine war in which his army has performed worse than expected.",
+        "url": "https://www.reuters.com/world/europe/putin-boasts-russian-weapons-prowess-says-moscow-is-ready-share-it-with-allies-2022-08-15/",
+        "urlToImage": "https://www.reuters.com/resizer/CEtkQ84CeVNym2HyjSSWlCSxxjo=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WHBDIVABGJMUVGVRA2AQYQVCTY.jpg",
+        "publishedAt": "2022-08-15T15:14:00Z",
+        "content": "LONDON, Aug 15 (Reuters) - President Vladimir Putin said on Monday that Russia was ready to sell advanced weapons to allies globally and cooperate in developing military technology, nearly six months… [+3769 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New York Post"
+        },
+        "author": "Thomas Barrabi",
+        "title": "Ikea shoppers in China panic after surprise COVID lockdown traps some inside - New York Post ",
+        "description": "Those who were unable to escape were stuck inside for more than four hours.",
+        "url": "https://nypost.com/2022/08/15/ikea-shoppers-in-china-panic-after-surprise-covid-store-lockdown/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/08/shanghai-ikea-covid-lockdown-comp.jpg?quality=75&strip=all&w=1024",
+        "publishedAt": "2022-08-15T15:07:00Z",
+        "content": "Chaos unfolded at an Ikea store in Shanghai over the weekend after local authorities attempted to implement a surprise lockdown with shoppers still inside due to potential COVID-19 exposure.\r\nVideos … [+2652 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Ashley Capoot",
+        "title": "Apple reportedly plans to put ads in more apps on your iPhone - CNBC",
+        "description": "Apple's advertising business, which generates about $4 billion annually, is planning to expand.",
+        "url": "https://www.cnbc.com/2022/08/15/apple-reportedly-plans-to-put-ads-in-more-apps-on-your-iphone.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/106941708-1631644991778-AppleEventSEP14KeynoteTim_Cook02_1.jpg?v=1631795461&w=1920&h=1080",
+        "publishedAt": "2022-08-15T14:30:35Z",
+        "content": "Apple may expand its advertising to more of its first-party apps on the iPhone in an effort to boost revenue, according to Bloomberg\r\nThe company currently generates about $4 billion in annual revenu… [+2602 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Fox Business"
+        },
+        "author": "Megan Henney",
+        "title": "Homebuilders see 'housing recession' as sentiment plunges to fresh 2-year low - Fox Business",
+        "description": "Builder sentiment in the market for single-family homes plunged in August to the lowest level in two years, indicating the housing market is officially in a recession.",
+        "url": "https://www.foxbusiness.com/economy/us-enters-housing-recession-homebuilder-sentiment-plunges-fresh-2-year-low-nahb-says",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/04/0/0/home-construction.jpg?ve=1&tl=1",
+        "publishedAt": "2022-08-15T14:13:22Z",
+        "content": "Confidence among builders in the U.S. housing market plunged more than expected in August to the lowest level since the beginning of the COVID-19 pandemic as painfully high inflation and rising borro… [+2416 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Sports Illustrated"
+        },
+        "author": "Albert Breer",
+        "title": "Patrick Mahomes Is Preparing for Another Leap - Sports Illustrated",
+        "description": "The former MVP earned new responsibility in the offseason program. Plus, Russell Wilson’s outlook entering his second decade in the NFL, an ode to James White and more.",
+        "url": "https://www.si.com/nfl/2022/08/15/patrick-mahomes-russell-wilson-brandon-staley-mmqb",
+        "urlToImage": "https://www.si.com/.image/t_share/MTkxNjMyNzE1NTIxNDY4MDY3/mahomes-training-camp.jpg",
+        "publishedAt": "2022-08-15T14:11:14Z",
+        "content": "ST. JOSEPH, Mo. — Most coaches and players are fine with the way camp has evolved over the last decade or so, with a move off remote college campuses and back to the team’s normal practice facilities… [+59565 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Yun Li",
+        "title": "Dan Loeb's Third Point takes new stake in Disney - CNBC",
+        "description": "In a letter to Disney CEO Bob Chapek, Loeb said there is a strong case that the ESPN business should be spun off.",
+        "url": "https://www.cnbc.com/2022/08/15/loebs-third-point-takes-new-stake-in-disney-boosting-shares.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/105623839-1544640570937rtx6ib22.jpg?v=1544640652&w=1920&h=1080",
+        "publishedAt": "2022-08-15T14:05:42Z",
+        "content": "Daniel Loeb's Third Point has taken a new stake in Disney, pushing the entertainment giant to spin off its sports network ESPN, according to a letter obtained by CNBC's David Faber.\r\nThe shares jumpe… [+2262 chars]"
+      },
+      {
+        "source": {
+          "id": "engadget",
+          "name": "Engadget"
+        },
+        "author": "https://www.engadget.com/about/editors/sam-rutherford",
+        "title": "Samsung's 55-inch Odyssey Ark: Taking gaming monitors to a whole new dimension - Engadget",
+        "description": "Boasting a 55-inch mini LED panel with a 165HZ refresh rate and 1ms response time, Samsung's new Odyssey Ark is bringing gaming monitors into uncharted territory..",
+        "url": "https://www.engadget.com/samsung-odyssey-ark-hands-on-specs-price-taking-gaming-monitors-to-a-whole-new-dimension-140056568.html",
+        "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-08/85a15430-1c99-11ed-ae96-d006e1d96880",
+        "publishedAt": "2022-08-15T14:03:35Z",
+        "content": "2022 has been a great year for monitors. Weve already gotten the worlds first QD-OLED monitor from Alienware with another on the way from MSI. And earlier this summer, Sony joined the fray with its n… [+4608 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New York Times"
+        },
+        "author": "Apoorva Mandavilli",
+        "title": "‘Frustration and Stress’: State Officials Fault Rollout of Monkeypox Vaccine - The New York Times",
+        "description": "Federal officials are not relying on an established system to distribute the vaccine, slowing immunizations and burdening local health departments, critics say.",
+        "url": "https://www.nytimes.com/2022/08/15/health/monkeypox-vaccine-distribution.html",
+        "urlToImage": "https://static01.nyt.com/images/2022/08/09/science/00monkeypox-vaccine1/00monkeypox-vaccine1-facebookJumbo.jpg",
+        "publishedAt": "2022-08-15T13:43:33Z",
+        "content": "In an email to The Times, Californias health department said: To date, there have been no issues with ordering and receipt of the monkeypox medical countermeasures.\r\nBut in calls with federal agencie… [+1041 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Variety"
+        },
+        "author": "Rebecca Rubin",
+        "title": "Johnny Depp to Direct His First Movie in 25 Years, Al Pacino to Produce - Variety",
+        "description": "Johnny Depp is set to direct a movie for the first time in a quarter of a century. The actor will return behind the camera for “Modigliani,” a biographical drama about Italian artist Amedeo Modigliani. Al Pacino is producing the film along with Barry Navidi. …",
+        "url": "https://variety.com/2022/film/news/johnny-depp-director-modigliani-al-pacino-1235341367/",
+        "urlToImage": "https://variety.com/wp-content/uploads/2022/07/johnny-depp-trial.jpg?w=1001",
+        "publishedAt": "2022-08-15T13:43:00Z",
+        "content": "Johnny Depp is set to direct a movie for the first time in a quarter of a century.\r\nThe actor will return behind the camera for “Modigliani,” a biographical drama about Italian artist Amedeo Modiglia… [+3120 chars]"
+      },
+      {
+        "source": {
+          "id": "usa-today",
+          "name": "USA Today"
+        },
+        "author": "Farah Hannoun",
+        "title": "Henry Cejudo not impressed by Marlon Vera: Dominick Cruz was winning 4-0 before he got clipped - MMA Junkie",
+        "description": "“Dominick was winning the fight for four rounds to zero before he got clipped with that head kick.”",
+        "url": "https://mmajunkie.usatoday.com/2022/08/ufc-espn-41-san-diego-opinion-analysis-henry-cejudo-not-impressed-by-marlon-vera-knockout-of-dominick-cruz",
+        "urlToImage": "https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2022/08/Marlon-Vera-def.-Dominick-Cruz-UFC-on-ESPN-41-22.jpg?w=1024&h=576&crop=1",
+        "publishedAt": "2022-08-15T13:30:00Z",
+        "content": "Henry Cejudo thinks Dominick Cruz was en route to a decisive win over Marlon Vera before he got finished.\r\nCruz (24-4 MMA, 7-3 UFC) was knocked out by Vera (22-7-1 MMA, 14-6 UFC) in Round 4 of Saturd… [+1666 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Guardian"
+        },
+        "author": "https://www.theguardian.com/profile/chris-stein,https://www.theguardian.com/profile/joannawalters,https://www.theguardian.com/profile/patrickwintour,https://www.theguardian.com/profile/maanvi-singh,https://www.theguardian.com/profile/davidsmith,https://www.theguardian.com/profile/laughland-oliver",
+        "title": "Fears of violence grow after FBI search of Trump’s Mar-a-Lago – live - The Guardian US",
+        "description": "Memo warns that the search inflamed extremists across the US",
+        "url": "https://www.theguardian.com/us-news/live/2022/aug/15/trump-mar-a-lago-fbi-violence-biden-inflation-act-latest-news",
+        "urlToImage": "https://i.guim.co.uk/img/media/28ad7ab88297a0beae61b5cacf82530b161636c2/0_263_4500_2701/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=60e7ade47e58d35fa80baf811dc3d965",
+        "publishedAt": "2022-08-15T13:27:00Z",
+        "content": "According to the memo from the FBI and department of homeland security, the federal agencies have identified an increase in threats occurring primarily online and across multiple platforms including … [+16241 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Deadline"
+        },
+        "author": "Ted Johnson",
+        "title": "Amber Heard Hires New Lawyers For Johnny Depp Trial Verdict Appeal; Philly Firm Bested Sarah Palin In Recent NYT Libel Battle - Deadline",
+        "description": "Amber Heard is replacing most of her legal team and leaning into the Constitution as she prepares to appeal a multi-million defamation verdict awarded to Johnny Depp. Not entirely unexpected, the move by the Aquaman actress to cut loose her main attorney Elai…",
+        "url": "https://deadline.com/2022/08/johnny-depp-amber-heard-new-lawyers-appeal-defamation-trial-sarah-palin-1235080213/",
+        "urlToImage": "https://deadline.com/wp-content/uploads/2022/08/Amber-Heard-Johnny-Depp.jpg?w=1000",
+        "publishedAt": "2022-08-15T13:05:00Z",
+        "content": "Amber Heard is replacing most of her legal team and leaning into the Constitution as she prepares to appeal a multi-million defamation verdict awarded to Johnny Depp.\r\nNot entirely unexpected, the mo… [+4796 chars]"
+      },
+      {
+        "source": {
+          "id": "ars-technica",
+          "name": "Ars Technica"
+        },
+        "author": "Sean Gallagher",
+        "title": "Machine learning, concluded: Did the “no-code” tools beat manual analysis? - Ars Technica",
+        "description": "In the finale of our experiment, we look at how the low/no-code tools performed.",
+        "url": "https://arstechnica.com/information-technology/2022/08/no-code-wrapped-our-ml-experiment-concludes-but-did-the-machine-win/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/robot-holding-monitored-heart-760x380.jpg",
+        "publishedAt": "2022-08-15T13:00:00Z",
+        "content": "8 with 8 posters participating\r\nI am not a data scientist. And while I know my way around a Jupyter notebook and have written a good amount of Python code, I do not profess to be anything close to a … [+4051 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Nouran Salahieh",
+        "title": "Salman Rushdie recovering from 'life changing' injuries after he was stabbed on stage. Here's what we know - CNN",
+        "description": "Famed author Salman Rushdie is recovering at a hospital after he was repeatedly stabbed on stage Friday in front of a New York audience in an attack that left him with severe injuries, his family said.",
+        "url": "https://www.cnn.com/2022/08/15/us/salman-rushdie-attack-monday/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220814203733-01-salman-rushdie-attack-monday.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2022-08-15T12:45:00Z",
+        "content": "Famed author Salman Rushdie is recovering at a hospital after he was repeatedly stabbed on stage Friday in front of a New York audience in an attack that left him with severe injuries, his family sai… [+7689 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Guardian"
+        },
+        "author": "Guardian staff reporter",
+        "title": "Modi pledges to make India a developed country in 25 years on partition anniversary - The Guardian",
+        "description": "PM says ‘self-reliant India is the responsibility of every citizen’ 75 years after end of British rule",
+        "url": "https://amp.theguardian.com/world/2022/aug/15/modi-pledges-to-make-india-a-developed-country-in-25-years-on-partition-anniversary",
+        "urlToImage": "https://i.guim.co.uk/img/media/4b46488aac66cd7f852cc8fcbd0a5ccd238013a0/1094_920_3268_1961/master/3268.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e89cecd4888aeafe997f38913e76c735",
+        "publishedAt": "2022-08-15T12:14:00Z",
+        "content": "The Indian prime minister, Narendra Modi, has pledged to turn India into a developed country within the next 25 years.\r\nWearing a flowing, cream-coloured turban with stripes of orange, white and gree… [+4537 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Jury selection begins Monday in federal trial of R. Kelly - CBS Chicago",
+        "description": "The singer is charged with child pornography and obstruction of justice.",
+        "url": "https://www.youtube.com/watch?v=Sifx5Oeg0_8",
+        "urlToImage": "https://i.ytimg.com/vi/Sifx5Oeg0_8/hqdefault.jpg",
+        "publishedAt": "2022-08-15T12:11:52Z",
+        "content": null
+      }
+    ]
+  }
