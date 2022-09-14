@@ -54,6 +54,10 @@ const data = [
     {
         id: 14,
         title: 'News Ninja'
+    },
+    {
+        id: 15,
+        title: 'Technical Doc'
     }
 
 ]

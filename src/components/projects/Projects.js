@@ -16,6 +16,7 @@ import ProjectEleven from './allProjects/projectEleven/ProjectEleven';
 import ProjectTwelve from './allProjects/projectTwelve/ProjectTwelve';
 import Project13 from './allProjects/project13/Project13';
 import Project14 from './allProjects/project14/Project14';
+import Project15 from './allProjects/project15/Project15';
 
 
 const Projects = () => {
@@ -59,6 +60,7 @@ const Projects = () => {
             {projectIndex === 12 && <div> <ProjectTwelve/></div>}
             {projectIndex === 13 && <div> <Project13/></div>}
             {projectIndex === 14 && <div> <Project14/></div>}
+            {projectIndex === 15 && <div> <Project15/></div>}
         </div>
       </div>
   </>;

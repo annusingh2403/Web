@@ -1,0 +1,66 @@
+.project15 {
+    margin: 0;
+    padding: 1rem 0;
+    display: flex;
+}
+
+.navbar-p15 {
+    width: 265px;
+    height: 100%;
+}
+
+.header-left {
+    padding: 1rem;
+}
+
+.navbar-p15 ul li {
+    padding: .5rem;
+    margin-top: 1rem;
+}
+
+.navbar-p15 ul li a{
+    border-left: 1px solid gray;
+    color: steelblue;
+    padding: .2rem 1rem .2rem 1rem;
+}
+
+.tab-p15:hover {
+    padding-left: 1rem;
+    border-left: 5px solid steelblue;
+    border-right: 5px solid steelblue;
+    background-color: rgb(248, 226, 226);
+    transition: all .3s ease-in-out;
+    margin-left: .5rem;
+}
+
+.active-tab-p15 {
+    border-left: 5px solid steelblue;
+    background-color: rgb(248, 226, 226);
+    border-right: 5px solid steelblue;
+    transition: all .3s ease-in-out;
+    padding-left: 1rem;
+    margin-left: .5rem;
+    outline: none;
+}
+
+.main-p15 {
+    max-width: 70%;
+    padding: 2rem;
+    border-left: 2px solid steelblue;
+    background-color: rgb(252, 252, 252);
+}
+
+.header-right {
+    font-size: 1.5rem;
+    color: steelblue;
+    margin-bottom: 1rem;
+}
+
+.main-p15 p {
+    padding-left: 1rem;
+    line-height: 1.5rem;
+}
+
+.main-p15 ul li {
+    list-style-type: circle;
+}

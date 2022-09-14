@@ -7,10 +7,10 @@
 
 .sidebar {
     background-color: rgb(252, 216, 151);
-    width: 14%;
+    min-width: 15%;
     margin-top: 5rem;
     padding-left: 10px;
-    /* min-height: 90vh; */
+    padding-bottom: 10px;
 }
 
 .project-box {
@@ -34,10 +34,10 @@
 }
 
 .show {
-    max-height: 400px;
+    max-height: 450px;
     overflow: hidden;
-    transition: all .5s ease;
-}
+    transition: all .5s ease; 
+}   
 
 .hide { 
     max-height: 0;
