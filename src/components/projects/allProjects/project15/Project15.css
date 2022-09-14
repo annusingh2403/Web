@@ -7,7 +7,7 @@
 .navbar-p15 {
     width: 265px;
     height: 100%;
-
+    /* position: fixed; */
 }
 
 .header-left {
@@ -47,8 +47,9 @@
 .main-p15 {
     max-width: 70%;
     padding: 2rem;
-    border-left: 2px solid steelblue;
+    border-left: 2px solid rgb(207, 230, 248);
     background-color: rgb(252, 252, 252);
+    /* margin-left: 18rem; */
 }
 
 .header-right {

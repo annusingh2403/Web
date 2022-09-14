@@ -25,9 +25,14 @@ const Projects = () => {
 
     const [projectIndex, setProjectIndex] = useState(1);
 
+    const [sidebar, setSidebar] = useState(true);
+
+   
+
   return <>
       <div className='project'>
-        <div className='sidebar'>
+        <button className='showhide' onClick={() => setSidebar(!sidebar)}>👈</button>
+        <div className={sidebar ? 'sidebar' : 'no-sidebar'}>
             <h5>PROJECTS</h5>
             <div className='project-list'>
                 <button className='project-list-title' onClick={() => setProject(!project)}>REACT PROJECTS {project ? <AiOutlineArrowUp style={{marginLeft: '5px', color: "red", fontSize: '15px'}}/> : <AiOutlineArrowDown style={{marginLeft: '5px', color: "green", fontSize: '15px'}}/>}</button>
