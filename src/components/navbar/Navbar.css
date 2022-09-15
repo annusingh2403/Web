@@ -79,10 +79,11 @@ li {
         margin-left: 90px;
         margin-top: 10px;
         cursor: pointer;
+        color: white;
     }
 
     .cross:hover {
-        color: white;
+        color: rgb(239, 14, 14);
     }
 
     .navbar-menu ul {
@@ -116,6 +117,7 @@ li {
 
 .night {
         background-color: black;
+        color: black;
 }
 
 @media(prefers-color-scheme: dark){

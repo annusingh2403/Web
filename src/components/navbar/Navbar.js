@@ -5,7 +5,7 @@ import {BsThreeDotsVertical } from 'react-icons/bs';
 import { FaInstagram, FaFacebookF, FaTwitter, FaGithub, FaHamburger } from 'react-icons/fa';
 
 
-const Navbar = () => {
+const Navbar = ({darkMode}) => {
 
     const [show, setShow] = useState(false);
     const [night, setNight] = useState(false);
@@ -13,7 +13,7 @@ const Navbar = () => {
 
   return (
       <>
-          <div className="navbar" className={night ? 'night navbar' : "navbar"}>
+          <div className={night ? 'night navbar' : "navbar"}>
               <div className="logo">
                   <h4><a href="/"><img src="https://image.freepik.com/free-photo/fun-3d-illustration-cartoon-kid-with-rain-gear_183364-81071.jpg" alt="" /></a></h4>
               </div>
@@ -56,7 +56,7 @@ const Navbar = () => {
                 </ul>
             </div>
               <div className='hamberger'>
-                  <div onClick={() => setShow(!show)}>
+                  <div onClick={() => setShow("false")}>
                       <BsThreeDotsVertical/>
                   </div>
               </div>

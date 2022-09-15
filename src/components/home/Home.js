@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import { FaInstagram, FaFacebookF, FaTwitter, FaGithub, FaHamburger } from 'react-icons/fa';
-import './Home.css'
+import './Home.css';
 
 const Home = () => {
 
@@ -9,7 +9,7 @@ const Home = () => {
   return (
     <>
 
-    <div className='home' className={night ? 'night home' : "home"}>
+    <div className={night ? 'night home' : "home"}>
         <div className='home-left'>
             <h5>__ HELLO</h5>
             <h3>I'M ANNU SINGH </h3>
