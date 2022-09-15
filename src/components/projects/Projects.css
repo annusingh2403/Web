@@ -11,25 +11,63 @@
     margin-top: 5rem;
     padding-left: 10px;
     padding-bottom: 10px;
-    transition: all 1s ease-in;
+    transition: all .5s ease-in;
     display: block;
 }
 
 .no-sidebar {
-    content: '';
-    position: relative;
-    /* background-color: rgb(252, 216, 151); */
+    background-color: rgb(252, 216, 151);
+    width: 15%;
     margin-top: 5rem;
+    padding-left: 10px;
     padding-bottom: 10px;
-    width: 0;
-    height: 100%;
+    transition: all .5s ease-in;
+    display: block;
+    transform: translateX(-140%);
+}
+
+.p-heading{
+    padding: 5rem 0px 3rem 2rem;
+    color: rgb(255, 255, 255);
+    letter-spacing: 2px;
     transition: all 1s ease-in;
 }
 
-.showhide {
-    position: fixed;
+.hide-title {
+    font-size: 13px;
+    margin-bottom: 20px;
+    padding: 7px;
+    font-weight: 600;
+    width: 10rem;
+    position: relative;
+}
+
+.hide-button {
+    position: absolute;
+    left: 1.5rem;
+    top: 8rem;
+    background-color: transparent;
+    font-size: 1rem;
+    transition: all .5s ease-in;
+    color:rgb(250, 249, 247);
+    writing-mode: vertical-lr;
+    background-color: steelblue;
+    padding: 5px 0.5px 5px 0.5px;   
+    letter-spacing: 3px; 
+}
+
+.show-button {
+    position: absolute;
     left: 0;
-    background-color: #fff;
+    top: 8rem;
+    background-color: transparent;
+    font-size: 1rem;
+    transition: all .5s ease-in;
+    color:rgb(245, 244, 242);
+    writing-mode: vertical-rl;
+    background-color: steelblue;
+    padding: 5px 0.5px 5px 0.5px;  
+    letter-spacing: 3px; 
 }
 
 .project-box {
@@ -105,13 +143,6 @@
     margin-left: 10px;
 
 }
-
-/* .tab {
-    border-left: 3px solid rgb(19, 168, 228);
-    border-right: 3px solid rgb(19, 168, 228);
-    margin-left: 5px;
-    transition: all .3s ease-in-out;
-} */
 
 
 

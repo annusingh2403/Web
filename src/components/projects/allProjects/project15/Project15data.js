@@ -32,7 +32,7 @@ const data = [
     {
         id: 7,
         title: 'Variable scope',
-        url: "#Variable scope"
+        url: "#Variable_scope"
     },
     {
         id: 8,

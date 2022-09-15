@@ -29,15 +29,14 @@ const Projects = () => {
 
    
 
-  return <>
+    return <>
       <div className='project'>
-        <button className='showhide' onClick={() => setSidebar(!sidebar)}>👈</button>
+        <span className={sidebar ? "hide-button" : "show-button"} onClick={() => setSidebar(!sidebar)}>{sidebar ? "HIDE" : "SHOW"} </span>
         <div className={sidebar ? 'sidebar' : 'no-sidebar'}>
-            <h5>PROJECTS</h5>
+            <h5 className={sidebar ? '' : 'p-heading'}>PROJECTS</h5>
             <div className='project-list'>
-                <button className='project-list-title' onClick={() => setProject(!project)}>REACT PROJECTS {project ? <AiOutlineArrowUp style={{marginLeft: '5px', color: "red", fontSize: '15px'}}/> : <AiOutlineArrowDown style={{marginLeft: '5px', color: "green", fontSize: '15px'}}/>}</button>
+                <button className={sidebar ? "project-list-title" : "hide-title"} onClick={() => setProject(!project)}>REACT PROJECTS {project ? <AiOutlineArrowUp style={{marginLeft: '5px', color: "red", fontSize: '15px'}}/> : <AiOutlineArrowDown style={{marginLeft: '5px', color: "green", fontSize: '15px'}}/>}</button>
                 <div className={`list-back ${project ? 'show' : 'hide'}`}>
-                    
                         {data.map((item) => {
                             return(
                                 <ul key={item.id} className='list-items'>

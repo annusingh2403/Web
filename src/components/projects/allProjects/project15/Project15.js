@@ -1,11 +1,10 @@
 import React, { useState } from "react";
 import "./Project15.css";
 import data from "./Project15data";
-import { Link } from "react-router-dom";
 
 export default function Project15() {
+
   const [linkIndex, setLinkIndex] = useState(1);
-//   const [href, setHref] = useState('');
 
   return (
     <>
@@ -43,7 +42,6 @@ export default function Project15() {
                   <a
                     className={linkIndex === item.id ? "active-tab-p15 tab-p15" : "tab-p15"} href={item.url}
                     onClick={() => {
-                        // setHref(item.url)
                         setLinkIndex(item.id)
                     }}
                     >
